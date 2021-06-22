@@ -1,0 +1,92 @@
+[
+   {
+      "title": "Home",
+      "name": "allProducts",
+      "url": "/"
+   },
+   {
+      "title": "Admin",
+      "name": "allProducts",
+      "url": "/Admin"
+   },
+   {
+      "title": "Maps",
+      "name": "allProducts",
+      "url": "/Maps"
+   },
+   {
+      "title": "Maps",
+      "name": "Trending",
+      "url": "/product/Maps/Trending"
+   },
+   {
+      "title": "Maps",
+      "name": "Views",
+      "url": "/product/Maps/Views"
+   },
+   {
+      "title": "Maps",
+      "name": "Downloads",
+      "url": "/product/Maps/Downloads"
+   },
+   {
+      "title": "Maps",
+      "name": "Latest",
+      "url": "/product/Maps/Latest"
+   },
+   {
+      "title": "Textures",
+      "name": "allProducts",
+      "url": "/product/Textures"
+   },
+   {
+      "title": "Textures",
+      "name": "Trending",
+      "url": "/product/Textures/Trending"
+   },
+   {
+      "title": "Textures",
+      "name": "Views",
+      "url": "/product/Textures/Views"
+   },
+   {
+      "title": "Textures",
+      "name": "Downloads",
+      "url": "/product/Textures/Downloads"
+   },
+   {
+      "title": "Textures",
+      "name": "Latest",
+      "url": "/product/Textures/Latest"
+   },
+   {
+      "title": "Mods",
+      "name": "allProducts",
+      "url": "/Mods"
+   },
+   {
+      "title": "Mods",
+      "name": "Trending",
+      "url": "/product/Mods/Trending"
+   },
+   {
+      "title": "Mods",
+      "name": "Views",
+      "url": "/product/Mods/Views"
+   },
+   {
+      "title": "Mods",
+      "name": "Downloads",
+      "url": "/product/Mods/Downloads"
+   },
+   {
+      "title": "Mods",
+      "name": "Latest",
+      "url": "/product/Mods/Latest"
+   },
+   {
+      "title": "Feed JSON Page",
+      "name": "FeedJSONPage",
+      "url": "/Admin"
+   }
+]
